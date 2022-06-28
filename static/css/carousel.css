@@ -1,0 +1,19 @@
+.gallery .gallery-section {
+  background: #434343;
+  border-radius: 10px;
+  margin: 5% 0 8% 0;
+}
+
+.gallery-section .gallery-title {
+  color: #fff;
+  font-weight: 500;
+  margin: 0 1% 0 1%;
+  padding: 1%;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.gallery .gallery-section img {
+  height: 50%;
+  width: 50%;
+}
